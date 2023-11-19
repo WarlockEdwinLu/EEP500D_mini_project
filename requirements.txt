@@ -1,0 +1,8 @@
+streamlit
+PIL
+os
+openai
+python-dotenv
+transformers datasets faiss-cpu -q
+scikit-learn
+matplotlib

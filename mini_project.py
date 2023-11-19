@@ -1,6 +1,5 @@
 # take classify image through streamlit page
 import streamlit as st
-from PIL import Image
 import os
 from transformers import CLIPProcessor, CLIPModel
 from sklearn.neighbors import KNeighborsClassifier, NearestNeighbors
